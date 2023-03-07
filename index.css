@@ -5,3 +5,11 @@ body {
     margin-right: auto;
     margin-left: auto;
   }
+
+.h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
